@@ -135,3 +135,27 @@ For example, when sending one announcement to 100 unrelated people:
 > **BCC:** The 100 recipients
 
 This prevents those 100 people from seeing each other's email addresses.
+
+
+#EXERCISE#
+You got **CC** right, but **BCC** is incorrect.
+
+* **To:** Michael ✅ - needs to act.
+* **CC:** Daniel + Sarah ✅ - both need to know.
+* **BCC:** **Nobody** ❌ - David has nothing to do with the request, so he should not receive the email at all.
+* **Do not include:** David ✅
+
+### Correct setup
+
+**To:** Michael
+**CC:** Daniel, Sarah
+**BCC:** Nobody
+**Do not include:** David
+
+The key principle:
+
+> **BCC is not "someone who should not know." It is "someone who should receive the email without other recipients seeing that they received it."**
+
+From my Email:
+Ojugbeli Faith, ysuemmanuel@gmail.com1 more
+Subject
